@@ -1,1 +1,1 @@
-This folder contains initial, and all the generated images!
+This folder contains four of the intermediate images, and the final transition!
